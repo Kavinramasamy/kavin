@@ -2,7 +2,7 @@ import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 export default function App(){
 return(
-
+  //
 <section class="pricing py-5">
   <div class="container">
     <div class="row">
